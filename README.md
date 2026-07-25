@@ -1,6 +1,6 @@
 <h1 align=center> Autodesk Maya Newton's Cradle Generator </h1>
 <h2 align=center> A VFX705: Visual Effects Project by Zach Breene </h2>
-<h4 align=center> Created at Savannah College of Art and Design, May 2026 </h4>
+<h4 align=center> Created at Savannah College of Art and Design, April 2026 </h4>
 <h4 align=center> *NOTE: THIS PROJECT WAS CREATED IN PART UTILIZING VIBE CODING WITH GOOGLE GEMINI, IN ORDER TO CONVERT MEL (Maya Embedded Language) MODELING HISTORY CODE INTO PYTHON* </h4>
 <br>
 <hr align=center> Attached in this repository are an image and video file of what the final result of this program creates inside Autodesk Maya. </h4>
