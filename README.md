@@ -32,7 +32,7 @@ This is the main, 1585-line file containing all the generation methods for the s
 ## How To Run
 **IMPORTANT: This program is to only be used inside of Autodesk Maya, as it won't work elsewise.** 
 
-To run this implementation, you must open Autodesk Maya and load `SP26_VFX705_01_Zach_Breene_NewtonsCradle_v01.py` into the Python Script Editor. Before running, ensure that the `IN_PATH` variable points to the correct directory containing your `empty_play_room_4k.exr` HDRI map and `WoodTexture.png` texture files. Once executed, a GUI will appear asking for a 5-letter word. Input your chosen word (using only letters, no spaces or numbers) and click "Generate Newton's Cradle". The script will automatically wipe any existing script geometry, generate the model, apply shaders, set the animation timeline, and configure the render settings. 
+To run this implementation, you must open Autodesk Maya and load `SP26_VFX705_01_Zach_Breene_NewtonsCradle_v01.py` into the Python Script Editor. You MUST download an HDRI .exr file off of polyhaven.com/hdris to use as a Skydome Light. Before running, ensure that the `IN_PATH` variable points to the correct directory containing your newly downloaded HDRI map and `WoodTexture.png` texture files. Once executed, a GUI will appear asking for a 5-letter word. Input your chosen word (using only letters, no spaces or numbers) and click "Generate Newton's Cradle". The script will automatically wipe any existing script geometry, generate the model, apply shaders, set the animation timeline, and configure the render settings. 
 
 ---
 
