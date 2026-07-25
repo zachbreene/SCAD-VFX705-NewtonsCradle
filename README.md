@@ -2,6 +2,8 @@
 <h2 align=center> A VFX705: Visual Effects Project by Zach Breene </h2>
 <h4 align=center> Created at Savannah College of Art and Design, May 2026 </h4>
 <h4 align=center> *NOTE: THIS PROJECT WAS CREATED IN PART UTILIZING VIBE CODING WITH GOOGLE GEMINI, IN ORDER TO CONVERT MEL (Maya Embedded Language) MODELING HISTORY CODE INTO PYTHON* </h4>
+<br>
+<hr align=center> Attached in this repository are an image and video file of what the final result of this program creates inside Autodesk Maya. </h4>
 
 ## Introduction
 My task for this project was to create a Python script that automatically generates a fully functional, tech-themed Newton's Cradle. Instead of traditional metal spheres, the pendulum relies on mechanical keyboard keycaps suspended by iPhone wires, all plugged into a modeled surge protector base. This project was created utilizing Vibe Coding with Google Gemini to convert ~1,225 lines of raw MEL code from the Autodesk Maya History Logs of my own manual modeling into a unified Python script. This single script is capable of creating the entire 3D model, building and applying 13 custom Arnold shaders, animating the cradle using mathematical expressions, and deploying a GUI to dynamically change the letters on the keycaps. 
